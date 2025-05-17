@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+video, canvas {
+  width: 640px;
+  height: 480px;
+  border: 2px solid #444;
+  margin-top: 10px;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+}
